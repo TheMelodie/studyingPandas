@@ -1,2 +1,2 @@
 # studyingPandas
-repo dedicated to studies related to pandas
+repo dedicated to my studies related to pandas
